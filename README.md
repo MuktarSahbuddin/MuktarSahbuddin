@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 
 
+<hr>
+
+```python
 # -*- coding: utf-8 -*-
 
 
@@ -33,3 +36,4 @@ class DataScientist:
 
 me = DataScientist()
 me.say_hi()
+```
