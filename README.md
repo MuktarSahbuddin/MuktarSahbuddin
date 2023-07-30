@@ -27,7 +27,7 @@ class DataScientist:
 
     def __init__(self):
         self.name = "Muktar Sahbuddin"
-        self.role = ["Data Scientist", "FRONTEND"]
+        self.role = ["Data Scientist","BACKEND" "FRONTEND"]
         self.language_spoken = ["English", "Indonesia", "Batak"]
 
     def say_hi(self):
