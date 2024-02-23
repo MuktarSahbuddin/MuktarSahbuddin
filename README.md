@@ -31,7 +31,7 @@ class DataScientist:
         self.language_spoken = ["English", "Indonesia", "Batak"]
 
     def say_hi(self):
-        print("Tukang Ngetik.")
+        print("Tukang Ngetik ber-hoodie.")
 
 
 me = DataScientist()
